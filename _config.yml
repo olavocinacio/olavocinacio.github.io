@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Teste blog EPTA
+description: descrição do teste
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://olavocinacio.github.io
 baseurl: "/long-haul"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -23,13 +23,13 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
+  github: teste
+  twitter: teste
+  facebook: teste
   email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  linkedin: teste
 
-google_analytics: "UA-58263416-1"
+google_analytics: "AAAAA"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: teste
